@@ -10,3 +10,10 @@ website/out/
 # MCP server build artifacts
 mcp-server/node_modules/
 mcp-server/dist/
+*.ubyte
+*.gz
+torch/medium/cnn-param-init/data/
+torch/easy/augmentation/data/
+torch/easy/autoencoder/data/
+torch/easy/benchmark/data/
+*.pth
