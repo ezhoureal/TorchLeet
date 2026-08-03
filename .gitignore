@@ -19,3 +19,4 @@ torch/easy/benchmark/data/
 *.pth
 .clangd
 .vscode/
+*.pyc
