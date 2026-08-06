@@ -7,6 +7,10 @@ requires-python = ">=3.13"
 dependencies = [
     "matplotlib>=3.11.0",
     "numpy>=2.4.6",
+    "nvidia-cuda-cccl==13.3.3.4.1",
+    "nvidia-cuda-crt==13.0.88",
+    "nvidia-cuda-nvcc==13.0.88",
+    "nvidia-nvvm==13.0.88",
     "pandas>=3.0.3",
     "scikit-learn>=1.9.0",
     "tensorboard>=2.20.0",
